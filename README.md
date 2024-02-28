@@ -9,7 +9,7 @@ ZOT Pantry is a user-friendly web application that allows users to log their foo
 ## How We Built It
 - **Front-end**: Developed with `React`, `JavaScript`, and `CSS`, providing an engaging user experience.
 - **Design**: UI mock-ups crafted using `Figma`, ensuring a polished and intuitive interface.
-- **Back-end**: Utilized `JavaScript` and the `Spoonacular API` for backend processes, especially for fetching personalized recipe suggestions.
+- **Back-end**: Utilized `Node.JS` and the `Spoonacular API` for backend processes, especially for fetching personalized recipe suggestions.
 
 ## Setup and Installation
 *Instructions on how to get a local copy up and running follow these simple steps.*
