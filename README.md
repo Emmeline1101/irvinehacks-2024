@@ -37,3 +37,5 @@ clean npm cache when encountering certain cache-related issues.
 ```
  npm cache clean --force
 ```
+## Demo
+![Demo](img/pantry-demo.gif)
