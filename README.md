@@ -27,9 +27,8 @@ ZOT Pantry is a user-friendly web application that allows users to log their foo
 6. Start the development server:
    ```
    cd my-react-app
-   npm run build
    npm start
-
+   npm run build
    ```
 ## Troubleshooting
 clean npm cache when encountering certain cache-related issues.
